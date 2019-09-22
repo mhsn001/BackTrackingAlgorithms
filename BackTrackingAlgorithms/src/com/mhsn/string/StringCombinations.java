@@ -25,7 +25,6 @@ public class StringCombinations {
 		if(index < str.length()){
 			output = output + str.charAt(index);
 			System.out.println(output);
-			
 			for(int i = index; i< str.length(); i++){
 				combination(str, i + 1, output);
 				}
