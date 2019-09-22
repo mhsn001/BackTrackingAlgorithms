@@ -1,4 +1,4 @@
-package com.mhsn.string;
+package com.mhsn.nqueen;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.mhsn.string;
+package com.mhsn.nqueen;
 
 public class NQueenProblemUsing2DArray {
 
