@@ -1,3 +1,5 @@
+## Work Schedule
+
 >You just got a new job where you have to work exactly as many hours as you are told each week, working no more than a daily maximum number of hours per day. Some of the days, they tell you how many hours you will work. You get to choose the remainder of your schedule, within the limits.
 >
 >A completed schedule consists of exactly **7** digits in the range **0** to **8** representing each day's hours to be worked. You will get a pattern string similar to the schedule, but with some of the digits replaced by a question mark, **?, (ascii 63 decimal)**. Given a maximum number of hours you can work in a day, replace the question marks with digits so that the sum of the scheduled hours is exactly the hours you must work in a week. Return a string array with all possible schedules you can create, ordered lexicographically.
